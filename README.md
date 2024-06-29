@@ -69,6 +69,7 @@ The firmware running on the Wemos D1 Mini integrates multiple functionalities to
 
 ![image](https://github.com/Qyuzet/Qyuzet/assets/93258081/471acacc-fc96-4c13-93cc-ac2431315c0b)
 
+![UME+ FLOWCHART (HARDWARE) drawio](https://github.com/Qyuzet/Ultrasonic-Height-Measurement-Devices--ULTRA-HIMEAS/assets/93258081/3b5691ac-f2e5-4bf9-ab4e-ac2641117f64)
 ## Software (Kodular)
 
 The mobile application, developed using Kodular, provides an intuitive interface for interacting with the ULTRA HIMEAS device. The app features real-time data display and various modes for analyzing the measurements.
